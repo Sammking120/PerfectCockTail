@@ -10,6 +10,8 @@ The App allows the Vistor to save or remove some of their favourite Recipes on t
 The App Can be accessed on live page <a href="https://sammking120.github.io/PerfectCockTail/index.html">here</a>
 
 <h3>Technologies Used</h3>
+<li>HTML</li>
+<li>CSS</li>
 <li>Javascript</li>
 <li>Bootstrap</li>
 <li>REST API CocktailDB</li>
